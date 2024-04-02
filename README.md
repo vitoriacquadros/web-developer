@@ -5,7 +5,7 @@
 >[Docs] <br/>
 >[Sumário](#sumário)  <br/>
 >[Anotações Gerais](#anotações-gerais)  <br/>
->[Estrutura de uma página web] (#estrutura-web)  <br/>
+>[Estrutura de uma página web] (#estrutura-de-uma-pagina-web)  <br/>
 >[CSS 3](#CSS-3)  <br/>
 >[Ordem de Precedência](#ordem-de-precedência)  <br/>
 >[Bibliotecas](#bibliotecas)  <br/>
@@ -39,3 +39,5 @@
 - Ele é composto por regras, que são utilizadas para estilizar o conteúdo de uma página web. <br/>
 - As regras do CSS são compostas por um seletor, uma propriedade e um valor. <br/>
 - O seletor do CSS é utilizado para selecionar um elemento HTML, a propriedade do CSS é utilizada para definir o estilo de um elemento HTML e o valor do CSS é utilizado para definir o valor da propriedade de um elemento HTML. <br/>
+
+## Projetos
