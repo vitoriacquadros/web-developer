@@ -5,12 +5,12 @@
 >[Docs] <br/>
 >[Sumário](#sumário)  <br/>
 >[Anotações Gerais](#anotações-gerais)  <br/>
->[Estrutura de uma página web] (#estrutura-de-uma-pagina-web)  <br/>
+>[Estrutura de uma página web](#estrutura-de-uma-pagina-web)  <br/>
 >[CSS 3](#CSS-3)  <br/>
 >[Ordem de Precedência](#ordem-de-precedência)  <br/>
 >[Bibliotecas](#bibliotecas)  <br/>
 >[Frameworks](#frameworks)  <br/>
->[Projetos] (#projetos) <br/>
+>[Projetos](#projetos) <br/>
     ... <br/>
 
 
