@@ -6,6 +6,7 @@
 >[Sumário](#sumário)  <br/>
 >[Anotações Gerais](#anotações-gerais)  <br/>
 >[Estrutura de uma página web](#estrutura-de-uma-pagina-web)  <br/>
+>[HTML](#HTML)  <br/>
 >[CSS 3](#CSS-3)  <br/>
 >[Ordem de Precedência](#ordem-de-precedência)  <br/>
 >[Bibliotecas](#bibliotecas)  <br/>
