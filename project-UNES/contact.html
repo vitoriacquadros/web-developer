@@ -2,7 +2,7 @@
 
 <html>
     <head>
-        <title>UNES - Página principal</title>
+        <title>UNES - Contato</title>
         <meta charset="UTF-8">
     </head>
 
@@ -11,9 +11,9 @@
             <tr>
                 <td height="89"><img src= "imagesUNES/logo.png"></td>
                 <td align="right">
-                    <a href = "" >Home|</a>
+                    <a href = "index.html" >Home|</a>
                     <a href="about.html">Quem somos|</a>
-                    <a href="contact.html">Contato</a>
+                    <a href="">Contato</a>
                 </td>
             </tr>
         
@@ -21,19 +21,74 @@
             <td>
                 <h2>Contato</h2>
                 <p>Entre em contato conosco através do formulário abaixo:</p>
+                <form>  
+                    Nome: <br>
+                    <input type="text" name= "name"><br><br>
 
+                    E-mail: <br>
+                    <input type="text" name= "email"><br><br>
+
+                    Mensagem: <br>
+                    <textarea></textarea><br><br>
+                    <input type="submit" value="Enviar"><br><br>
+                </form>
+
+                <hr>
+
+                <h2>Pré-matrícula:</h2>
+                <p>Deixe seus dados para realizar a pretensão de matrícula escolhendo o curso de sua preferência</p>
                 <form>
-                    <label
+                    Nome:<br>
+                    <input type="text" name="name"><br><br>
 
+                    E-mail:<br>
+                    <input type="text" name="email"><br><br>
 
+                    Curso de interesse:<br>
+                    <select>
+                        <option value="info">Desenvolvimento de Jogos</option>
+                        <option value="gastro">Tecnólogo em Gastronomia</option>
+                        <option value="sistemas">Desenvolvimento de Sistemas</option>
+                        <option value="info">Matemática Aplicada</option>
+                        <option value="info">Letras - Inglês</option>
+                        <option value="info">Psicologia</option>
+                        <option value="info">Acompanhante de TEA</option>
+                        <option value="info">Licenciatura em História</option>
+                        <option value="info">Licenciatura em Geografia</option>
 
+                    </select>
+
+                    <br><br>
+
+                    Preferência de horário:<br>
+                    <input type="radio" name="turno" value="manha">Manhã
+                    <input type="radio" name="turno" value="tarde">Tarde
+                    <input type="radio" name="turno" value="noite">Noite
+                    <br><br>
+
+                    Campus pretendido:<br>
+                    <input type="radio" name="campus" value="campus1">São José dos Campos
+                    <input type="radio" name="campus" value="campus2">Vacaria
+                    <input type="radio" name="campus" value="campus3">Pelotas
+                    <br><br>
+
+                    Forma de ingresso:<br>
+
+                    <input type="radio" name="ingresso" value="vestibular">Vestibular
+                    <input type="radio" name="ingresso" value="enem">Enem
+                    <input type="radio" name="ingresso" value="transferencia">Transferência
+                    <input type="radio" name="ingresso" value="diplomado">Diplomado
+                    <br><br>
+
+                    <input type="checkbox" name="info" value="info">Desejo receber informações sobre os cursos<br><br>
+
+                    <input type="checkbox" name="termos" value="termos">Aceito os termos de uso<br><br>
+
+                    <input type="submit" value="Enviar"><br><br>
                 </form>
             </td>
         </tr>
-
-        </table>
-
-
+    </table>
 
     </body>
 </html>
